@@ -1,0 +1,2 @@
+from crew_config.crew_planificacion_novela import crew_planificacion_novela
+from crew_config.crew_produccion_capitulo import crew_produccion_capitulo

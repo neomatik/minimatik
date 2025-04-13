@@ -1,0 +1,18 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Configuración personal
+.env
+*.env
+
+# Archivos temporales / logs
+*.log
+*.tmp
+.DS_Store
+
+# Salidas exportadas
+*.zip
+
+# Archivos de prueba
+test_*.py
